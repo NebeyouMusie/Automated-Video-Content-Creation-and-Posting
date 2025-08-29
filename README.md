@@ -24,6 +24,7 @@ Automate topic expansion, video generation, and social posting—end to end. Thi
 - [Customization](#customization)
   - [Google Sheets Structure](#google-sheets-structure)
   - [AI Prompt Tweaks](#ai-prompt-tweaks)
+- [Example Output](#example-output)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
@@ -152,6 +153,16 @@ Your sheet should include at least these columns (see `data/Contents.xlsx` for r
 
 ---
 
+## Example Output
+
+Here's an example of the automated content posted to X (Twitter) using this workflow:
+
+![Content Posted](./images/Content%20Posted.png)
+
+*The video shows a young Black man looking directly at the camera with the text overlay "START YOUR FINANCIAL" - demonstrating the AI-generated content and Jogg video creation capabilities of this automation.*
+
+---
+
 ## Troubleshooting
 
 - **Google Sheets errors**: Re-check OAuth credentials, `documentId`, and `sheetName`.
@@ -192,7 +203,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 > _For any issues, please contact the project maintainer or open an issue on your workflow repository.
-
-![Content Posted](./images/Content%20Posted.png)
 
 
