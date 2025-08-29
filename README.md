@@ -193,8 +193,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 > _For any issues, please contact the project maintainer or open an issue on your workflow repository.
 
-![Workflow](./images/Automated%20Video%20Content%20Creation%20%26%20Posting%20workflow.png)
-
 ![Content Posted](./images/Content%20Posted.png)
 
 
