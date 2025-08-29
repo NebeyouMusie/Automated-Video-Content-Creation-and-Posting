@@ -159,7 +159,7 @@ Here's an example of the automated content posted to X (Twitter) using this work
 
 ![Content Posted](./images/Content%20Posted.png)
 
-*The video shows a young Black man looking directly at the camera with the text overlay "START YOUR FINANCIAL" - demonstrating the AI-generated content and Jogg video creation capabilities of this automation.*
+*The video shows a young Black man looking directly at the camera with a text overlay - demonstrating the AI-generated content and Jogg video creation capabilities of this automation.*
 
 ---
 
